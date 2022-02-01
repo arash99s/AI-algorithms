@@ -1,10 +1,10 @@
 # AI-algorithms
 
-. greedy
-. a-star
-. ant-colony-optimization
+* greedy
+* a-star
+* ant-colony-optimization
 
 ------
 
-. genetic-algorithm
-. genetic-programming(tree based)
+* genetic-algorithm
+* genetic-programming(tree based)
